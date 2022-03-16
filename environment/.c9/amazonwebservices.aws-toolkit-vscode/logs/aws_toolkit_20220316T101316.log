@@ -1,0 +1,9 @@
+2022-03-16 10:13:16 [ERROR]: log level: info
+2022-03-16 10:13:17 [INFO]: Retrieving AWS endpoint data
+2022-03-16 10:13:17 [INFO]: OS:  Linux x64 4.14.262-135.489.amzn1.x86_64
+2022-03-16 10:13:17 [INFO]: AWS Cloud9 Extension Host Version:  1.44.2
+2022-03-16 10:13:17 [INFO]: AWS Toolkit Version:  1.36.0-79a3f75acd48
+2022-03-16 10:18:17 [INFO]: telemetry: (test mode) dropped batch (size=3)
+2022-03-16 10:40:54 [ERROR]: Profile default is not a valid Credential Profile: Profile default is not supported by the Toolkit.
+2022-03-16 10:40:54 [WARN]: Shared Credentials Profile default is not valid. It will not be used by the toolkit.
+2022-03-16 10:43:17 [INFO]: telemetry: (test mode) dropped batch (size=2)
