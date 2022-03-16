@@ -1,0 +1,10 @@
+version: 0.1
+frontend:
+  phases:
+    build:
+      commands:
+        - hugo --source workshop --destination ../public --quiet
+  artifacts:
+    baseDirectory: /public
+    files:
+      - '**/*'
